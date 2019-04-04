@@ -1,7 +1,7 @@
 # Reinforcement Learning Literature Review
 Here i provide summary of papers in meta-reinforcement learning and exploration
 
-#Refernce
+# Reference
 Please use this bibtex if you want to cite this review in your publications:
 
       @misc{rl_review,
